@@ -1,0 +1,1 @@
+print('Kotlet schabowy')
