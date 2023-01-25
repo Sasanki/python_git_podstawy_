@@ -1,1 +1,0 @@
-print('Lody malinowe')
