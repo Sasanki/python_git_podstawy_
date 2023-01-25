@@ -1,1 +1,1 @@
-print('Lody malinowe')
+print('Lody malinowe lub waniliowe')
