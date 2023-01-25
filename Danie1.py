@@ -9,4 +9,4 @@ print('zmiana 7')
 print('zmiana 8')
 print('zmiana 9')
 
-
+print('Zmiana -> commit -> push')
